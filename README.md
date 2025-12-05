@@ -17,6 +17,4 @@ Supported Commands
 - “Back”, “Reverse”  
 - “Left”, “Turn left”  
 - “Right”, “Turn right”  
-- “Stop”, “Wait”  
-
-How to Run
+- “Stop”, “Wait” 
